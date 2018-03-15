@@ -1,0 +1,11 @@
+{
+  "name": "javascriptscratch",
+  "version": "1.0.0",
+  "description": "A scratchpad for testing things in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Elliott Thompson",
+  "license": "ISC"
+}
